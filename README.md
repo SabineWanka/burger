@@ -10,8 +10,6 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 #### Directory structure
 
-All the recommended files and directories from the steps above should look like the following structure:
-
 ```
 .
 ├── config
