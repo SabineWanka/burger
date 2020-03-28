@@ -1,4 +1,6 @@
-#Eat-Da-Burger!
+# Eat-Da-Burger!
+
+a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). MVC design pattern; Node and MySQL used to query and route data in the app, Handlebars is used to generate the HTML.
 
 Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
